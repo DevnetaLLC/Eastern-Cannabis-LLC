@@ -81,4 +81,41 @@ Moreover, in compliance with the **__Americans with Disabilities_** ("**_ADA_**"
 
 ### Section 2.3 - Confidentiality
 
+In the course of employment with Eastern Cannabis LLC, employees may have access to _Confidential Information_ regarding the Company, which may
+include its business strategy, future plans, financial plans, contracts, suppliers, customers, personnel information, or other information that the
+Company considers proprietary and confidential. <br />
 
+Maintaining the confidentiality of this information is vital to our competitive position in the industry and, ultimately, to its ability to achieve financial
+success and stability. Employees must protect this information by safeguarding it when in use, using it only for the business of the Company, and disclosing
+it only when authorized to do so and to those who have an legitimate business need to know about it. <br />
+
+This duty of confidentiality applies whether the employee is on or off our premises, and during and even after the end of the employee's employment with
+the Company. This duty of confidentiality also applies to communications transmitted by our electronic communications. <br />
+
+> [!IMPORTANT]
+> As a condition of employment with us, all employees must sign a **Non-Disclosure Agreement**.
+
+### Section 2.4 - Employment of Minors
+
+The **FLSA**'s child labor provisions, which we strictly adhere to, are designed to protect the educational opportunities of youth and prohibit their employment
+in jobs that are detrimental to their health and safety. <br />
+
+Due to the nature of Eastern Cannabis LLC's daily operations, we prohibit the employment of minors for most positions. We occasionally review the employment
+of minors on a case-by-case basis. <br />
+
+### Section 2.5 - Employment of Relatives
+
+We recognize that the employment of relatives in certain circumstances, such as when they work in the same department, supervise or manage the other, or
+have access to confidential or sensitive information regarding the other, cause problems related to supervision, safety, security, or morale, or create
+conflicts of interest that materially and substantially disrupt our operations. <br />
+
+When we determine any of these problems will be present, it will decline to hire an individual to work in the same department as a relative. <br />
+
+> [!NOTE]
+> Relatives subject to this policy include: father, mother, sister, brother, current spouse or domestic partner, child (natural, foster, or adopted),
+> current mother-in-law, current father-in-law, grandparent, or grand child.
+
+If present employees have become relatives during employment, we should be notified so that we may determine whether a problem involving supervision,
+safety, security, morale, or a conflict of interest that would materially and substantially disrupt our operations exists. If we determine such a problem
+exists, we will take appropriate steps to resolve the problem, which may include reassignment of one relative (if feasible) or asking the resignation of one of
+the relatives.
