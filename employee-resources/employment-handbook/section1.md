@@ -29,3 +29,25 @@ United States locations, and to acquaint employees with many rules concerning em
 
 Since our business is constantly changing, we expressly reserve the right to revise, modify, delete, or add to **any and all** policies, procedures, work rules, or benefits stated in this Handbook or in any other document, except for the policy of
 [At-Will Employment]() as described below. <br />
+
+No oral statements or representations can in any way alter the provisions of this Handbook. Nothing in this Handbook or in any other document, including benefit
+plan descriptions, creates or is intended to create a promise or representation of continued employment for any employee. <br />
+
+> [!IMPORTANT]
+> Any changes to your At-Will Employment status must be signed by our [Chief Executive Officer](mailto:kgarow@devneta.org).
+
+> [!NOTE]
+> If you are uncertain about any policy or procedure, please contact the Management department.
+
+You are free to resign at any time for any reason with or without notice. Similarly, we are free to conclude the employment relationship at any time for any lawful reason,
+with or without cause, and with or without notice. <br />
+
+Nothing in this Handbook will limit the right of either party to terminate an at-will employment status. No section of this Handbook is meant to be construed,
+nor should be construed, as establishing anything other than an employment-at-will relationship. <br />
+
+> [!CAUTION]
+> This Handbook does not limit Management's discretion in making personnel decisions such as reassignment, change of wages and benefits, demotions, ect. No person other than
+> the Chief Executive Officer has the authority to enter into an agreement for employment for any specified period of time or to make an agreement for employment
+> other than at-will terms. Only the Chief Executive Officer of Eastern Cannabis LLC has the authority to make any such agreement, which is only binding if it is
+> in writing and signed by a member of our Management department.
+
