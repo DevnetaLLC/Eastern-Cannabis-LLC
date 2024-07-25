@@ -7,7 +7,7 @@
 The following terms are used to describe employees and their employment status:
 
 #### Exempt Employees
-Employees whose positions meet specific tests established by the **__Federal Labor Standard Act_** ("**__FLSA__**") and __Minnesota__ state law. <br />
+Employees whose positions meet specific tests established by the **_Federal Labor Standard Act_** ("**__FLSA__**") and _Minnesota_ state law. <br />
 
 In general, exempt employees are those engaged in executive, managerial, high-level administration and professional jobs who are paid a fixed salary and 
 perform certain duties. In addition, certain commissioned sales employees and highly paid computer professionals are exempt. <br />
