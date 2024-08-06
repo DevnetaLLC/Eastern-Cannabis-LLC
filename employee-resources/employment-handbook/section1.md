@@ -53,4 +53,4 @@ nor should be construed, as establishing anything other than an employment-at-wi
 
 ---
 
-[Section 2](/employee-resources/employee-handbook/section2.md).
+[Section 2](/employee-resources/employment-handbook/section2.md).
