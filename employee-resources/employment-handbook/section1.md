@@ -51,3 +51,6 @@ nor should be construed, as establishing anything other than an employment-at-wi
 > other than at-will terms. Only the Chief Executive Officer of Eastern Cannabis LLC has the authority to make any such agreement, which is only binding if it is
 > in writing and signed by a member of our Management department.
 
+---
+
+[Section 2](/employee-resources/employee-handbook/section2.md).
