@@ -51,3 +51,7 @@ Once we receive the legal papers ordering a garnishment, we are **required by la
 ### Section 3.7 - Direct Deposit
 
 All employees are encouraged, but not required, to use direct deposit and have their paychecks deposited into a bank account of an accredited participating bank or credit union. <br />
+
+---
+
+[Section 4](/employee-resources/employment-handbook/section4.md).
