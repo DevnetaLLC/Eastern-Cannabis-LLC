@@ -216,3 +216,7 @@ and such requirements would impose an undue hardship on your employer. <br />
 For more information regarding your rights under _PWFA_ review the _U.S. Equal Employment Opportunity Commission Guide_. <br />
 _PWFA_ rights are provided to you if you work for a covered employer, including private and public sector employers with at least 15 employees, Congress,
 Federal agencies, employment agencies, and labor organizations. These rights are not provided to you if such requirements would pose an undue hardship on your employers.
+
+---
+
+[Section 3](/employee-resources/employment-handbook/section3.md).
