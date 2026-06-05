@@ -10,6 +10,9 @@ Welcome to Eastern Cannabis LLC. Here we specialize mainly in the cultivation
 and processing of cannabis and cannabis-related materials. We were first established in 
 October 2023 in New York State. <br />
 
+> [!IMPORTANT]
+> How we operate has changed
+
 ### Section 1.2 - Handbook
 
 This handbook ("Handbook") is designed to summarize certain personnel policies and benefits of Eastern Cannabis LLC ("Company", "our", "us", "we"), of all
