@@ -1,6 +1,6 @@
 ![Eastern Cannabis LLC Banner](/assets/colorbanner.png)
 
-> [!WARNING] New Direction
+> [!WARNING]
 > We have a new direction at Eastern Cannabis LLC.
 > Details in our [June 2026 Update](./IMPORTANT-UPDATE-JUNE2026.md).
 
